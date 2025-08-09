@@ -36,3 +36,20 @@
 - [Download the file](https://github.com/md-ahmed-tanvir/SalesAnalysis_SQL_PowerBI/blob/main/SalesAnalysis_SQL_PowerBI/Sales%20Report.pbix) and open in Power BI Desktop for interactive viewing.
 - [See a screenshot](https://github.com/md-ahmed-tanvir/SalesAnalysis_SQL_PowerBI/blob/main/SalesAnalysis_SQL_PowerBI/Sales%20Report.pdf) of the Dashboard in pdf.
 
+📄 License
+© 2025 Md. Tanvir Ahmed — All Rights Reserved
+
+This repository is for educational and professional showcase purposes only.
+
+❌ No downloading
+
+❌ No copying
+
+❌ No modifying
+
+❌ No redistribution
+
+❌ No commercial use
+
+You may view the contents of this repository for reference purposes only.
+Any other use requires explicit written permission from Md. Tanvir Ahmed.
