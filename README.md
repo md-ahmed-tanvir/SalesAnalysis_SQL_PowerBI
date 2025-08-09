@@ -4,7 +4,7 @@
 - This project requires SQL Server (SQL Express), Power BI Desktop
 - We will work with backup Data Warehouse (DW) data and Lightweight (LT) data. Obtain data and restore following instructions from [here.](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
 - Compare DW and LT data to understand the difference between structured and unstructured data. We will primarily be working with Data Warehouse data.
-- Update Data Warehouse data using [sql script.](https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql)
+- Update Data Warehouse data using.
 
 ### Business Request & User Stories
 - Read the sample business request, demand overview & filled-out user stories to understand the problem we are trying to solve with Data Analysis and what we consider as a solution.
@@ -33,6 +33,6 @@
 - Pivot Table
 
 ### Dashboard
-- [Download the file](https://github.com/AsifRashid01/SalesAnalysis_SQL_PowerBI/blob/main/Sales%20Report.pbix) and open in Power BI Desktop for interactive viewing.
-- [See a screenshot](https://github.com/AsifRashid01/SalesAnalysis_SQL_PowerBI/blob/main/Sales%20Report.pdf) of the Dashboard in pdf.
+- [Download the file](https://github.com/md-ahmed-tanvir/SalesAnalysis_SQL_PowerBI/blob/main/SalesAnalysis_SQL_PowerBI/Sales%20Report.pbix) and open in Power BI Desktop for interactive viewing.
+- [See a screenshot](https://github.com/md-ahmed-tanvir/SalesAnalysis_SQL_PowerBI/blob/main/SalesAnalysis_SQL_PowerBI/Sales%20Report.pdf) of the Dashboard in pdf.
 
